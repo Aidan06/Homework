@@ -1,1 +1,1 @@
-print('Hello world')
+print('Go to sleep')
